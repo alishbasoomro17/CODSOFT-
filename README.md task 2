@@ -1,0 +1,25 @@
+# CODSOFT-
+this task of making to-do -list i have implemented css,html,and javascript for the functions like edit ,delete, add task by user  event listener and javascript code scripts
+the following functionalities you will find in it 
+Features
+Add tasks to your to-do list.
+Edit existing tasks.
+Delete tasks.
+Tasks are stored in local storage.
+
+
+Getting Started
+1-Clone the repository to your local machine using: 
+git clone https://github.com/alishbasoomro17@gmail.com/CODSOFT.git
+2-Navigate to the project directory:
+cd CODSOFT
+3-Open the index.html file in your web browser to start using the to-do list app.
+
+Usage
+Enter a task in the input field and click "Add Task" to add it to your list.
+
+To edit a task, click the "Edit" button next to the task, and a prompt will appear to edit the task's text.
+
+To delete a task, click the "Delete" button next to the task.
+
+Tasks are stored in local storage, so you can close the browser and come back later to find your tasks still available.
